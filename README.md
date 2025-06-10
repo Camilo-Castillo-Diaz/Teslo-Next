@@ -1,5 +1,5 @@
 # Descripción
-
+Este es una tienda realizada con next y nest 
 
 
 ## Correr en dev
